@@ -62,9 +62,13 @@ hr {
   border: 1px solid black;
 }
 
-section#contact h2 {
+section#portfolio p {
   text-align: left;
 }
+
+/* section#contact h2 {
+  text-align: cen;
+} */
 
 /* Add your solution below */
 
